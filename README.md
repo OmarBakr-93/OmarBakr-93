@@ -32,10 +32,10 @@ I'm a software developer with a strong passion for creating visually appealing a
 ![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelkashef15&hide_progress=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelkashef15&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarBakr-93&layout=compact)
 <br>
-<a href="https://komarev.com/ghpvc/?username=mohamedelkashef15&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=mohamedelkashef15&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=OmarBakr-93&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=OmarBakr-93&style=for-the-badge">
 </a>
 
 - 📫 Social links
